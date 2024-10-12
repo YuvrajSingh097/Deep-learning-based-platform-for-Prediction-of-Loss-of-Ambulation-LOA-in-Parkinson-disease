@@ -1,0 +1,2 @@
+# Deep-learning-based-platform-for-Prediction-of-Loss-of-Ambulation-LOA-in-Parkinson-disease
+This project predicts Loss of Ambulation (LOA) in Parkinson’s disease using clinical and voice data. Initially, Linear, Logistic, and Random Forest models achieved over 92% accuracy.This project has been accepted for presentation at the International Conference on Power, Energy, Control, and Transmission Systems (ICPECTS).
